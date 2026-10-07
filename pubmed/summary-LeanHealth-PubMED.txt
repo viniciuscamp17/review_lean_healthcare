@@ -1,0 +1,53 @@
+1: Younossi Z, Anstee QM, Marietti M, Hardy T, Henry L, Eslam M, George J,
+Bugianesi E. Global burden of NAFLD and NASH: trends, predictions, risk factors
+and prevention. Nat Rev Gastroenterol Hepatol. 2018 Jan;15(1):11-20. doi:
+10.1038/nrgastro.2017.109. Epub 2017 Sep 20. PMID: 28930295.
+
+2: Moize V, Laferrère B, Shapses S. Nutritional Challenges and Treatment After
+Bariatric Surgery. Annu Rev Nutr. 2024 Aug;44(1):289-312. doi: 10.1146/annurev-
+nutr-061121-101547. Epub 2024 Aug 12. PMID: 38768613; PMCID: PMC12168164.
+
+3: Schleh MW, Caslin HL, Garcia JN, Mashayekhi M, Srivastava G, Bradley AB,
+Hasty AH. Metaflammation in obesity and its therapeutic targeting. Sci Transl
+Med. 2023 Nov 22;15(723):eadf9382. doi: 10.1126/scitranslmed.adf9382. Epub 2023
+Nov 22. PMID: 37992150; PMCID: PMC10847980.
+
+4: Diab A, Dastmalchi LN, Gulati M, Michos ED. A Heart-Healthy Diet for
+Cardiovascular Disease Prevention: Where Are We Now? Vasc Health Risk Manag.
+2023 Apr 21;19:237-253. doi: 10.2147/VHRM.S379874. PMID: 37113563; PMCID:
+PMC10128075.
+
+5: Angelidi AM, Stefanakis K, Chou SH, Valenzuela-Vallejo L, Dipla K, Boutari C,
+Ntoskas K, Tokmakidis P, Kokkinos A, Goulis DG, Papadaki HA, Mantzoros CS.
+Relative Energy Deficiency in Sport (REDs): Endocrine Manifestations,
+Pathophysiology and Treatments. Endocr Rev. 2024 Sep 12;45(5):676-708. doi:
+10.1210/endrev/bnae011. PMID: 38488566.
+
+6: Holmes CJ, Racette SB. The Utility of Body Composition Assessment in
+Nutrition and Clinical Practice: An Overview of Current Methodology. Nutrients.
+2021 Jul 22;13(8):2493. doi: 10.3390/nu13082493. PMID: 34444653; PMCID:
+PMC8399582.
+
+7: de Barros LB, Bassi LC, Caldas LP, Sarantopoulos A, Zeferino EBB, Minatogawa
+V, Gasparino RC. Lean Healthcare Tools for Processes Evaluation: An Integrative
+Review. Int J Environ Res Public Health. 2021 Jul 10;18(14):7389. doi:
+10.3390/ijerph18147389. PMID: 34299840; PMCID: PMC8304063.
+
+8: Cassani C, Tedeschi S, Cucinella L, Morteo V, Camnasio CA, Tiranini L,
+Martini E, Nappi RE. Menopause and endometriosis. Maturitas. 2024
+Dec;190:108129. doi: 10.1016/j.maturitas.2024.108129. Epub 2024 Sep 26. PMID:
+39357143.
+
+9: Sievenpiper JL, Ard J, Blüher M, Chen W, Dixon JB, Fitch A, Gigliotti L,
+Khunti K, Lecube A, Lean MEJ, Mittendorfer B, Pfeiffer AFH, Ryan DH, Vilsbøll T,
+Van Gaal LF. Nutritional and lifestyle supportive care recommendations for
+management of obesity with GLP-1 - based therapies: An expert consensus
+statement using a modified Delphi approach. Obes Pillars. 2025 Nov 11;17:100228.
+doi: 10.1016/j.obpill.2025.100228. PMID: 41502845; PMCID: PMC12768930.
+
+10: English LK, Ard JD, Bailey RL, Bates M, Bazzano LA, Boushey CJ, Brown C,
+Butera G, Callahan EH, de Jesus J, Mattes RD, Mayer-Davis EJ, Novotny R, Obbagy
+JE, Rahavi EB, Sabate J, Snetselaar LG, Stoody EE, Van Horn LV, Venkatramanan S,
+Heymsfield SB. Evaluation of Dietary Patterns and All-Cause Mortality: A
+Systematic Review. JAMA Netw Open. 2021 Aug 2;4(8):e2122277. doi:
+10.1001/jamanetworkopen.2021.22277. PMID: 34463743; PMCID: PMC8408672.

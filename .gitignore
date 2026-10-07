@@ -1,0 +1,19 @@
+# exportacoes brutas das bases e arquivos intermediarios
+*.bib
+*.nbib
+*.ris
+*.pkl
+dados/
+sondagem/amostra_incremento.csv
+triagem_*.csv
+excluidos_*.csv
+dados_tratados*
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# temporarios do office
+~$*

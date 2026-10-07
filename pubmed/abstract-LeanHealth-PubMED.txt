@@ -1,0 +1,594 @@
+1. Nat Rev Gastroenterol Hepatol. 2018 Jan;15(1):11-20. doi: 
+10.1038/nrgastro.2017.109. Epub 2017 Sep 20.
+
+Global burden of NAFLD and NASH: trends, predictions, risk factors and 
+prevention.
+
+Younossi Z(1)(2), Anstee QM(3)(4), Marietti M(5), Hardy T(3)(4), Henry L(1)(2), 
+Eslam M(6), George J(6), Bugianesi E(5).
+
+Author information:
+(1)Center for Liver Diseases, Department of Medicine, Inova Fairfax Hospital, 
+3300 Gallows Road, Falls Church, Virginia 22042, USA.
+(2)Center for Outcomes Research in Liver Disease, 2411 I Street NW, Washington 
+DC, 20037, USA.
+(3)Institute of Cellular Medicine, Faculty of Medical Sciences, Newcastle 
+University, 4 th Floor, William Leech Building, Framlington Place, Newcastle 
+upon Tyne, NE2 4HH, UK.
+(4)Liver Unit, Newcastle Upon Tyne Hospitals NHS Trust, Freeman Hospital, 
+Freeman Road, High Heaton, Newcastle upon Tyne, NE7 7DN, UK.
+(5)Division of Gastroenterology, Department of Medical Sciences, University of 
+Torino, AOU Città della Salute e della Scienza, Corso Dogliotti 14, 10126 
+Torino, Italy.
+(6)Storr Liver Centre, Westmead Institute for Medical Research, Westmead 
+Hospital and University of Sydney, 176 Hawkesbury Rd, Westmead NSW 2145, Sydney, 
+New South Wales, Australia.
+
+NAFLD is one of the most important causes of liver disease worldwide and will 
+probably emerge as the leading cause of end-stage liver disease in the coming 
+decades, with the disease affecting both adults and children. The epidemiology 
+and demographic characteristics of NAFLD vary worldwide, usually parallel to the 
+prevalence of obesity, but a substantial proportion of patients are lean. The 
+large number of patients with NAFLD with potential for progressive liver disease 
+creates challenges for screening, as the diagnosis of NASH necessitates invasive 
+liver biopsy. Furthermore, individuals with NAFLD have a high frequency of 
+metabolic comorbidities and could place a growing strain on health-care systems 
+from their need for management. While awaiting the development effective 
+therapies, this disease warrants the attention of primary care physicians, 
+specialists and health policy makers.
+
+DOI: 10.1038/nrgastro.2017.109
+PMID: 28930295 [Indexed for MEDLINE]
+
+
+2. Annu Rev Nutr. 2024 Aug;44(1):289-312. doi: 10.1146/annurev-nutr-061121-101547. 
+Epub 2024 Aug 12.
+
+Nutritional Challenges and Treatment After Bariatric Surgery.
+
+Moize V(1)(2), Laferrère B(3), Shapses S(4)(5).
+
+Author information:
+(1)Centro de Investigación Biomédica en Red de Diabetes y Enfermedades 
+Metabólicas Asociadas (CIBERDEM), Madrid, Spain.
+(2)Obesity Unit, Hospital Clinic Barcelona and Institut d'Investigacions 
+Biomèdiques August Pi Sunyer (IDIBAPS), Barcelona, Spain.
+(3)Nutrition and Obesity Research Center, Division of Endocrinology, Department 
+of Medicine, Columbia University Irving Medical Center, New York, NY, USA.
+(4)Department of Medicine, Rutgers Robert Wood Johnson Medical School, New 
+Brunswick, New Jersey, USA.
+(5)Department of Nutritional Sciences and New Jersey Institute for Food, 
+Nutrition, and Health, Rutgers University, New Brunswick, New Jersey, USA; 
+email: Shapses@rutgers.edu.
+
+Bariatric surgery is an important weight loss tool in individuals with severe 
+obesity. It is currently the most effective long-term weight loss treatment that 
+lowers obesity-related comorbidities. It also has significant physiological and 
+nutritional consequences that can result in gastrointestinal complications and 
+micronutrient deficiencies. After gastric bypass, clinical events that 
+negatively affect nutritional status include malabsorption, dumping syndrome, 
+kidney stones, altered intestinal bile acid availability, bowel obstruction, 
+ulcers, gastroesophageal reflux, and bacterial overgrowth. Risk factors for poor 
+nutritional status and excessive loss of lean body mass and bone include reduced 
+dietary quality and inadequate intake, altered nutrient absorption, and poor 
+patient compliance with nutrient supplementation. There are unique concerns in 
+adolescents, older individuals, and individuals who become pregnant 
+postoperatively. With careful management, health-care professionals can assist 
+with long-term weight loss success and minimize the risk of acute and long-term 
+nutrition complications after bariatric surgery.
+
+DOI: 10.1146/annurev-nutr-061121-101547
+PMCID: PMC12168164
+PMID: 38768613 [Indexed for MEDLINE]
+
+Conflict of interest statement: DISCLOSURE STATEMENT The authors are not aware 
+of any affiliations, memberships, funding, or financial holdings that might be 
+perceived as affecting the objectivity of this review.
+
+
+3. Sci Transl Med. 2023 Nov 22;15(723):eadf9382. doi: 10.1126/scitranslmed.adf9382. 
+Epub 2023 Nov 22.
+
+Metaflammation in obesity and its therapeutic targeting.
+
+Schleh MW(1), Caslin HL(1), Garcia JN(1), Mashayekhi M(2), Srivastava 
+G(2)(3)(4)(5), Bradley AB(2)(5)(6), Hasty AH(1)(6).
+
+Author information:
+(1)Department of Molecular Physiology and Biophysics, Vanderbilt University 
+School of Medicine, Nashville, TN 37232, USA.
+(2)Department of Medicine, Division of Diabetes, Endocrinology and Metabolism, 
+Vanderbilt University Medical Center, Nashville, TN 37232, USA.
+(3)Department of Pediatrics, Vanderbilt University Medical Center, Nashville, TN 
+37232, USA.
+(4)Department of Surgery, Vanderbilt University Medical Center, Nashville, TN 
+37232, USA.
+(5)Vanderbilt Weight Loss Center, Vanderbilt University Medical Center, 
+Nashville, TN 37204 USA.
+(6)VA Tennessee Valley Healthcare System, Nashville, TN 37212, USA.
+
+Obesity-associated inflammation is a systemic process that affects all metabolic 
+organs. Prominent among these is adipose tissue, where cells of the innate and 
+adaptive immune system are markedly changed in obesity, implicating these cells 
+in a range of processes linking immune memory to metabolic regulation. 
+Furthermore, weight loss and weight cycling have unexpected effects on adipose 
+tissue immune populations. Here, we review the current literature on the roles 
+of various immune cells in lean and obese adipose tissue. Within this context, 
+we discuss pharmacological and nonpharmacological approaches to obesity 
+treatment and their impact on systemic inflammation.
+
+DOI: 10.1126/scitranslmed.adf9382
+PMCID: PMC10847980
+PMID: 37992150 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: G.S. reports advisory fees 
+from Rhythm Pharmaceuticals, Novo Nordisk, and Eli Lilly outside the submitted 
+work. The other authors declare that they have no competing interests.
+
+
+4. Vasc Health Risk Manag. 2023 Apr 21;19:237-253. doi: 10.2147/VHRM.S379874. 
+eCollection 2023.
+
+A Heart-Healthy Diet for Cardiovascular Disease Prevention: Where Are We Now?
+
+Diab A(1)(2), Dastmalchi LN(3), Gulati M(4), Michos ED(1)(5).
+
+Author information:
+(1)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, MD, USA.
+(2)Department of Medicine, Greater Baltimore Medical Center, Baltimore, MD, USA.
+(3)Division of Cardiology, Temple University Hospital, Philadelphia, PA, USA.
+(4)Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, LA, USA.
+(5)Division of Cardiology, Department of Medicine, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA.
+
+PURPOSE OF REVIEW: The relationship between cardiovascular health and diet is 
+evolving. Lifestyle modifications including diet changes are the primary 
+approach in managing cardiometabolic risk factors. Thus, understanding different 
+diets and their impact on cardiovascular health is important in guiding primary 
+and secondary prevention of cardiovascular disease (CVD). Yet, there are many 
+barriers and limitations to adopting a heart healthy diet.
+RECENT FINDINGS: Diets rich in fruits, vegetables, legumes, whole grains, and 
+lean protein sources, with minimization/avoidance of processed foods, 
+trans-fats, and sugar sweetened beverages, are recommended by prevention 
+guidelines. The Mediterranean, DASH, and plant-based diets have all proven 
+cardioprotective in varying degrees and are endorsed by professional healthcare 
+societies, while other emerging diets such as the ketogenic diet and 
+intermittent fasting require more long-term study. The effects of diet on the 
+gut microbiome and on cardiovascular health have opened a new path for precision 
+medicine to improve cardiometabolic risk factors. The effects of certain dietary 
+metabolites, such as trimethylamine N-oxide, on cardiometabolic risk factors, 
+along with the changes in the gut microbiome diversity and gene pathways in 
+relation to CVD management, are being explored.
+SUMMARY: In this review, we provide a comprehensive up-to-date overview on 
+established and emerging diets in cardiovascular health. We discuss the 
+effectiveness of various diets and most importantly the approaches to 
+nutritional counseling where traditional and non-traditional approaches are 
+being practiced, helping patients adopt heart healthy diets. We address the 
+limitations to adopting a heart healthy diet regarding food insecurity, poor 
+access, and socioeconomic burden. Lastly, we discuss the need for a 
+multidisciplinary team-based approach, including the role of a nutrition 
+specialist, in implementing culturally-tailored dietary recommendations. 
+Understanding the limitations and finding ways to overcome the barriers in 
+implementing heart-healthy diets will take us miles in the path to CVD 
+prevention and management.
+
+© 2023 Diab et al.
+
+DOI: 10.2147/VHRM.S379874
+PMCID: PMC10128075
+PMID: 37113563 [Indexed for MEDLINE]
+
+Conflict of interest statement: Unrelated to this work, Dr. Michos has served on 
+advisory boards for Amgen, Amarin, AstraZeneca, Bayer, Boehringer Ingelheim, 
+Esperion, Novartis, Novo Nordisk, and Pfizer. Dr. Gulati has served on advisory 
+boards for Novartis and Bayer. The authors report no other conflicts of interest 
+in this work.
+
+
+5. Endocr Rev. 2024 Sep 12;45(5):676-708. doi: 10.1210/endrev/bnae011.
+
+Relative Energy Deficiency in Sport (REDs): Endocrine Manifestations, 
+Pathophysiology and Treatments.
+
+Angelidi AM(1)(2), Stefanakis K(1)(2)(3)(4), Chou SH(5), Valenzuela-Vallejo 
+L(1)(2), Dipla K(6), Boutari C(7), Ntoskas K(4), Tokmakidis P(3)(4), Kokkinos 
+A(3), Goulis DG(8), Papadaki HA(9), Mantzoros CS(1)(2)(5).
+
+Author information:
+(1)Department of Medicine, Boston VA Healthcare System, Boston, MA 02115, USA.
+(2)Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA 
+02215, USA.
+(3)First Propaedeutic Department of Internal Medicine, Laiko General Hospital, 
+Medical School, National and Kapodistrian University of Athens, Athens 11527, 
+Greece.
+(4)Department of Internal Medicine, 251 Air Force General Hospital, Athens 
+11525, Greece.
+(5)Division of Endocrinology, Diabetes and Hypertension, Brigham and Women's 
+Hospital (BWH), Harvard Medical School, Boston, MA 02115, USA.
+(6)Exercise Physiology and Biochemistry Laboratory, Department of Sports Science 
+at Serres, Aristotle University of Thessaloniki, Serres 62100, Greece.
+(7)Second Propaedeutic Department of Internal Medicine, Hippokration Hospital, 
+School of Medicine, Aristotle University of Thessaloniki, Thessaloniki 54642, 
+Greece.
+(8)Unit of Reproductive Endocrinology, First Department of Obstetrics and 
+Gynecology, Medical School, Aristotle University of Thessaloniki, Thessaloniki 
+54124, Greece.
+(9)Department of Hematology, University Hospital of Heraklion, School of 
+Medicine, University of Crete, Heraklion 71500, Greece.
+
+Research on lean, energy-deficient athletic and military cohorts has broadened 
+the concept of the Female Athlete Triad into the Relative Energy Deficiency in 
+Sport (REDs) syndrome. REDs represents a spectrum of abnormalities induced by 
+low energy availability (LEA), which serves as the underlying cause of all 
+symptoms described within the REDs concept, affecting exercising populations of 
+either biological sex. Both short- and long-term LEA, in conjunction with other 
+moderating factors, may produce a multitude of maladaptive changes that impair 
+various physiological systems and adversely affect health, well-being, and sport 
+performance. Consequently, the comprehensive definition of REDs encompasses a 
+broad spectrum of physiological sequelae and adverse clinical outcomes related 
+to LEA, such as neuroendocrine, bone, immune, and hematological effects, 
+ultimately resulting in compromised health and performance. In this review, we 
+discuss the pathophysiology of REDs and associated disorders. We briefly examine 
+current treatment recommendations for REDs, primarily focusing on 
+nonpharmacological, behavioral, and lifestyle modifications that target its 
+underlying cause-energy deficit. We also discuss treatment approaches aimed at 
+managing symptoms, such as menstrual dysfunction and bone stress injuries, and 
+explore potential novel treatments that target the underlying physiology, 
+emphasizing the roles of leptin and the activin-follistatin-inhibin axis, the 
+roles of which remain to be fully elucidated, in the pathophysiology and 
+management of REDs. In the near future, novel therapies leveraging our emerging 
+understanding of molecules and physiological axes underlying energy availability 
+or lack thereof may restore LEA-related abnormalities, thus preventing and/or 
+treating REDs-related health complications, such as stress fractures, and 
+improving performance.
+
+Published by Oxford University Press on behalf of the Endocrine Society 2024.
+
+DOI: 10.1210/endrev/bnae011
+PMID: 38488566 [Indexed for MEDLINE]
+
+
+6. Nutrients. 2021 Jul 22;13(8):2493. doi: 10.3390/nu13082493.
+
+The Utility of Body Composition Assessment in Nutrition and Clinical Practice: 
+An Overview of Current Methodology.
+
+Holmes CJ(1), Racette SB(1)(2).
+
+Author information:
+(1)Program in Physical Therapy, Washington University School of Medicine, St. 
+Louis, MO 63110, USA.
+(2)Department of Medicine, Washington University School of Medicine, St. Louis, 
+MO 63110, USA.
+
+Body composition is a key component for maintaining good general health and 
+longevity. It can be influenced by a variety of factors, including genetics, 
+environment, and lifestyle choices. The assessment of body composition is an 
+essential tool for nutrition specialists to effectively evaluate nutritional 
+status and monitor progression during dietary interventions. As humans age, 
+there is a natural increase in fat mass coupled with a gradual decline in lean 
+mass, specifically in bone and muscle mass. Individuals with a high body fat 
+percentage are at a greater risk of cardiovascular diseases, type 2 diabetes, 
+several types of cancer, and early mortality. Significant decreases in bone 
+mineral density signify osteopenia and osteoporosis, while reductions in 
+skeletal muscle mass increase the risk of developing sarcopenia. Moreover, 
+undernutrition exacerbates the effects of many medical conditions and is 
+important to address. Though weight tracking and calculation of BMI are used 
+commonly by clinicians and dietitians, these measures do not provide insight on 
+the relative contributions of fat mass and fat-free mass or the changes in these 
+compartments that may reflect disease risk. Therefore, it is important that 
+healthcare professionals have a critical understanding of body composition 
+assessment and the strengths and limitations of the methods available.
+
+DOI: 10.3390/nu13082493
+PMCID: PMC8399582
+PMID: 34444653 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+7. Int J Environ Res Public Health. 2021 Jul 10;18(14):7389. doi: 
+10.3390/ijerph18147389.
+
+Lean Healthcare Tools for Processes Evaluation: An Integrative Review.
+
+de Barros LB(1), Bassi LC(1), Caldas LP(1), Sarantopoulos A(2), Zeferino EBB(3), 
+Minatogawa V(4), Gasparino RC(1).
+
+Author information:
+(1)School of Nursing, University of Campinas, Campinas 13083-887, Brazil.
+(2)Faculdade de Ciências Médicas, Universidade Estadual de Campinas, Campinas 
+13083-887, Brazil.
+(3)Hospital de Clínicas, University of Campinas, Campinas 13083-888, Brazil.
+(4)Escuela de Ingeniería en Construcción, Pontificia Universidad Católica de 
+Valparaíso, Valparaíso 2340000, Chile.
+
+Several health services have used lean healthcare to seek continuous improvement 
+of their processes. Therefore, it is important to investigate the evidence 
+available in the literature about the most used lean tools in the health area to 
+review processes and the main results achieved by the researchers. As an 
+integrative literature review methodology was used, it was conducted in five 
+databases, using the descriptor "quality improvement" and the keyword "Lean 
+Healthcare". A total of 33 complete articles were selected for analysis. The 
+most recurrent tools were: define, measure, analyze, improve and control 
+(DMAIC); value stream map (VSM); suppliers, inputs, process, outputs, customers 
+analysis (SIPOC), Ishikawa Diagram and 5S. Through the analysis of waste, 
+different interventions were implemented and the main results achieved were 
+reduction in times (processing, waiting, cycle and total), costs, workload and 
+increase in the number of calls. The findings enabled the identification of the 
+main lean tools used in the health area to achieve better results. In 
+particular, we highlight recent studies that have explored the lean six sigma 
+healthcare approach. The results, in addition to contributing to the literature, 
+will also assist managers in choosing the best tool to achieve continuous 
+improvement in hospitals and other health services.
+
+DOI: 10.3390/ijerph18147389
+PMCID: PMC8304063
+PMID: 34299840 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+8. Maturitas. 2024 Dec;190:108129. doi: 10.1016/j.maturitas.2024.108129. Epub 2024 
+Sep 26.
+
+Menopause and endometriosis.
+
+Cassani C(1), Tedeschi S(2), Cucinella L(3), Morteo V(4), Camnasio CA(5), 
+Tiranini L(6), Martini E(7), Nappi RE(8).
+
+Author information:
+(1)Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, 
+University of Pavia, Viale Golgi 19, 27100 Pavia, Italy; Unit of Obstetrics and 
+Gynecology, IRCCS S. Matteo Foundation, Viale Golgi 19, 27100 Pavia, Italy. 
+Electronic address: chiara.cassani@unipv.it.
+(2)Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, 
+University of Pavia, Viale Golgi 19, 27100 Pavia, Italy; Unit of Obstetrics and 
+Gynecology, IRCCS S. Matteo Foundation, Viale Golgi 19, 27100 Pavia, Italy; 
+Research Center for Reproductive Medicine, Gynecological Endocrinology and 
+Menopause, IRCCS S. Matteo Foundation, Viale Golgi 19, 27100 Pavia, Italy. 
+Electronic address: sara.tedeschi01@universitadipavia.it.
+(3)Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, 
+University of Pavia, Viale Golgi 19, 27100 Pavia, Italy; Research Center for 
+Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. 
+Matteo Foundation, Viale Golgi 19, 27100 Pavia, Italy. Electronic address: 
+laura.cucinella01@universitadipavia.it.
+(4)Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, 
+University of Pavia, Viale Golgi 19, 27100 Pavia, Italy; Unit of Obstetrics and 
+Gynecology, IRCCS S. Matteo Foundation, Viale Golgi 19, 27100 Pavia, Italy. 
+Electronic address: vittoria.morteo01@universitadipavia.it.
+(5)Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, 
+University of Pavia, Viale Golgi 19, 27100 Pavia, Italy; Unit of Obstetrics and 
+Gynecology, IRCCS S. Matteo Foundation, Viale Golgi 19, 27100 Pavia, Italy. 
+Electronic address: cristinaangela.camnasio01@universitadipavia.it.
+(6)Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, 
+University of Pavia, Viale Golgi 19, 27100 Pavia, Italy. Electronic address: 
+lara.tiranini01@universitadipavia.it.
+(7)Research Center for Reproductive Medicine, Gynecological Endocrinology and 
+Menopause, IRCCS S. Matteo Foundation, Viale Golgi 19, 27100 Pavia, Italy. 
+Electronic address: ellismartini84@gmail.com.
+(8)Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, 
+University of Pavia, Viale Golgi 19, 27100 Pavia, Italy; Research Center for 
+Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. 
+Matteo Foundation, Viale Golgi 19, 27100 Pavia, Italy. Electronic address: 
+nappi@rossellanappi.com.
+
+The shift in paradigm from the belief that endometriosis exclusively affects 
+women of reproductive age has brought attention to its manifestation in 
+postmenopausal patients. Despite this emerging awareness, there remains a dearth 
+of information in the literature regarding postmenopausal endometriosis, with 
+uncertainties surrounding its prevalence, clinical significance, optimal 
+management strategies, and prognosis. Clinical manifestations of endometriosis 
+in menopausal patients lack specificity, with pain onset possible at any stage 
+of life. The primary approach for symptomatic postmenopausal endometriosis 
+continues to be surgical excision, serving both diagnostic and therapeutic 
+purposes while mitigating the risk of coexisting malignancies. Managing the 
+disease in postmenopausal women presents challenges due to possible 
+contraindications for menopausal hormone therapy and the elevated risk of 
+recurrence and malignant transformation. However, conclusive data regarding the 
+appropriateness of menopausal hormone therapy in women with endometriosis or a 
+history of the disease are lacking. Current recommendations lean towards 
+prioritizing combined menopausal hormone therapy formulations or tibolone over 
+estrogen-only therapies due to their potentially higher malignancy risk. The 
+possible increased risk of osteoporosis and cardiovascular disease in 
+postmenopausal women with endometriosis is likely linked to a history of 
+surgical menopause at an earlier age, but more research is warranted. This 
+narrative review summarizes the available literature and provides insights into 
+the intricate connection between endometriosis and menopause, shedding light on 
+pathogenesis, symptoms, oncologic risk, diagnosis, and treatment.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.maturitas.2024.108129
+PMID: 39357143 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Rossella E. 
+Nappi had past financial relationships (lecturer, member of advisory boards 
+and/or consultant) with Boehringer Ingelheim, Ely Lilly, Endoceutics, Exeltis, 
+HRA Pharma, Palatin Technologies, Pfizer Inc., Procter & Gamble Co, TEVA Women's 
+Health Inc. and Zambon SpA. At present, she has on-going relationship with 
+Abbott, Astellas, Bayer HealthCare AG, Besins Healthcare, Fidia, Gedeon Richter, 
+Merck Sharpe & Dohme, Novo Nordisk, Organon & Co, Shionogi Limited, Theramex, 
+Viatris, and Vichy Laboratories. None of these are relevant to the present work. 
+All the other authors have nothing to disclose.
+
+
+9. Obes Pillars. 2025 Nov 11;17:100228. doi: 10.1016/j.obpill.2025.100228. 
+eCollection 2026 Mar.
+
+Nutritional and lifestyle supportive care recommendations for management of 
+obesity with GLP-1 - based therapies: An expert consensus statement using a 
+modified Delphi approach.
+
+Sievenpiper JL(1)(2)(3), Ard J(4), Blüher M(5), Chen W(6), Dixon JB(7), Fitch 
+A(8), Gigliotti L(9), Khunti K(10), Lecube A(11)(12), Lean MEJ(13), Mittendorfer 
+B(14), Pfeiffer AFH(15), Ryan DH(16), Vilsbøll T(17)(18), Van Gaal LF(19).
+
+Author information:
+(1)Departments of Nutritional Sciences and Medicine, Temerty Faculty of 
+Medicine, University of Toronto, Toronto, ON, Canada.
+(2)Division of Endocrinology and Metabolism, Department of Medicine, St. 
+Michael's Hospital, Toronto, ON, Canada.
+(3)Li Ka Shing Knowledge Institute, St. Michael's Hospital, Toronto, ON, Canada.
+(4)Department of Epidemiology and Prevention, Wake Forest School of Medicine, 
+Winston-Salem, NC, USA.
+(5)Helmholtz Institute for Metabolic, Obesity and Vascular Research (HI-MAG) of 
+the Helmholtz Zentrum München at the University of Leipzig and University 
+Hospital Leipzig, Leipzig, Germany.
+(6)Department of Clinical Nutrition, Peking Union Medical College Hospital, 
+Chinese Academy of Medical Sciences and Peking Union Medical College, No. 1 
+Shuai fu yuan Wang fu jing, Dong Cheng District, Beijing, 100730, China.
+(7)Iverson Health Innovation Research Institute, Swinburne University of 
+Technology, Melbourne, Australia.
+(8)knownwell Health, Boston, MA, USA.
+(9)Irvine, CA, USA.
+(10)Diabetes Research Centre, University of Leicester, Leicester, UK.
+(11)Endocrinology and Nutrition Department, Vall d'Hebron University Hospital, 
+VHIR, Barcelona, Spain.
+(12)Centro de Investigación Biomédica en Red de Diabetes y Enfermedades 
+Metabólicas Asociadas (CIBERDEM), Madrid, Spain.
+(13)Human Nutrition, School of Medicine, Dentistry and Nursing, College of 
+Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.
+(14)Departments of Medicine and Nutrition & Exercise Physiology, University of 
+Missouri School of Medicine, Columbia, MO, USA.
+(15)Charité - Universitätsmedizin Berlin, Klinik für Endokrinologie, 
+Stoffwechsel- und Ernährungsmedizin, Berlin, Germany.
+(16)Pennington Biomedical Research Center, Louisiana State University, Baton 
+Rouge, LA, USA.
+(17)Clinical Research, Steno Diabetes Center Copenhagen, University of 
+Copenhagen, Herlev, Denmark.
+(18)Department of Clinical Medicine, Faculty of Health and Medical Sciences, 
+University of Copenhagen, Copenhagen, Denmark.
+(19)Department of Endocrinology, Diabetology and Metabolism, Antwerp University 
+Hospital, University of Antwerp, Antwerp, Belgium.
+
+BACKGROUND: Liraglutide, semaglutide and tirzepatide have transformed the 
+management of obesity. However, dose-related gastrointestinal effects, 
+obesity-associated nutritional insufficiencies, and poor long-term adherence may 
+limit their long-term health benefits. Despite a recent joint advisory 
+summarizing nutritional and lifestyle supportive care priorities with these 
+therapies, there is still a significant lack of direct evidence to guide 
+clinical practice, making consensus-based recommendations necessary.
+METHODS: The consensus statement development was based on an initial scoping 
+review that included searching PubMed, Embase, Web of Science, Cochrane, and 
+Medline for relevant scientific publications from January 1, 2021 through June 
+30, 2025. An international multidisciplinary panel consisting of physicians, 
+clinical researchers, and dietitians employed a modified Delphi process to 
+develop clinical practice recommendations for nutritional and lifestyle 
+strategies that may assist people on glucagon-like peptide 1 based therapies 
+(GBT) in optimizing treatment experience and improving health outcomes.
+RESULTS: A total of 52 consensus statements were developed, outlining key 
+considerations for the practical management of obesity and associated 
+complications with GBTs, with a focus on nutritional factors in relation to 
+obesity, body composition, physical activity, and the management of common 
+gastrointestinal symptoms such as nausea, vomiting, diarrhoea, and constipation. 
+The consensus statements include practical strategies supporting the weight loss 
+journey, from before starting a GBT, during the weight loss and weight 
+maintenance phases, and in case of GBT discontinuation. The statements were 
+primarily derived from indirect evidence, including from existing evidence and 
+established guidelines for nutrition therapy in bariatric medicine and relevant 
+clinical experience.
+CONCLUSIONS: These expert consensus recommendations offer healthcare 
+professionals practical guidance on nutritional and lifestyle interventions for 
+patients undergoing GBT-related weight management, complementing current 
+recommendations. Further direct evidence is urgently required to inform and 
+enhance optimal clinical care.
+
+© 2025 The Authors.
+
+DOI: 10.1016/j.obpill.2025.100228
+PMCID: PMC12768930
+PMID: 41502845
+
+
+10. JAMA Netw Open. 2021 Aug 2;4(8):e2122277. doi: 
+10.1001/jamanetworkopen.2021.22277.
+
+Evaluation of Dietary Patterns and All-Cause Mortality: A Systematic Review.
+
+English LK(1)(2), Ard JD(3), Bailey RL(4), Bates M(1)(2), Bazzano LA(5), Boushey 
+CJ(6), Brown C(7), Butera G(1)(2), Callahan EH(1), de Jesus J(8), Mattes RD(4), 
+Mayer-Davis EJ(9), Novotny R(10), Obbagy JE(1), Rahavi EB(7), Sabate J(11), 
+Snetselaar LG(12), Stoody EE(7), Van Horn LV(13), Venkatramanan S(1)(2), 
+Heymsfield SB(14).
+
+Author information:
+(1)Nutrition Evidence Systematic Review, Office of Nutrition Guidance and 
+Analysis (ONGA), Center for Nutrition Policy and Promotion (CNPP), US Department 
+of Agriculture (USDA) Food and Nutrition Service (FNS), Alexandria, Virginia.
+(2)Panum Group, Bethesda, Maryland.
+(3)Department of Epidemiology and Prevention, Wake Forest School of Medicine, 
+Winston Salem, North Carolina.
+(4)Department of Nutrition Science, Purdue University, West Lafayette, Indiana.
+(5)Tulane University School of Public Health and Tropical Medicine, New Orleans, 
+Louisiana.
+(6)Epidemiology Program, University of Hawai'i Cancer Center, Honolulu.
+(7)ONGA, CNPP, USDA FNS, Alexandria, Virginia.
+(8)Office of Disease Prevention and Health Promotion, Office of the Assistant 
+Secretary for Health, US Department of Health and Human Services, Washington, 
+DC.
+(9)Departments of Nutrition and Medicine, The University of North Carolina at 
+Chapel Hill, Chapel Hill.
+(10)Nutritional Sciences, Human Nutrition, Food and Animal Sciences Department, 
+College of Tropical Agriculture and Human Resources, University of Hawai'i at 
+Mānoa, Honolulu.
+(11)Center for Nutrition, Healthy Lifestyles, and Disease Prevention, School of 
+Public Health, Loma Linda University, Loma Linda, California.
+(12)Epidemiology, College of Public Health, University of Iowa, Iowa City.
+(13)Nutrition Division, Department of Preventive Medicine, Feinberg School of 
+Medicine, Northwestern University, Chicago, Illinois.
+(14)Pennington Biomedical Research Center, Louisiana State University System, 
+Baton Rouge.
+
+IMPORTANCE: The 2020 Dietary Guidelines Advisory Committee conducted a 
+systematic review of existing research on diet and health to inform the current 
+Dietary Guidelines for Americans. The committee answered this public health 
+question: what is the association between dietary patterns consumed and 
+all-cause mortality (ACM)?
+OBJECTIVE: To ascertain the association between dietary patterns consumed and 
+ACM.
+EVIDENCE REVIEW: Guided by an analytical framework and predefined inclusion and 
+exclusion criteria developed by the committee, the US Department of 
+Agriculture's Nutrition Evidence Systematic Review (NESR) team searched PubMed, 
+the Cochrane Central Register of Controlled Trials, and Embase and dual-screened 
+the results to identify articles that were published between January 1, 2000, 
+and October 4, 2019. These studies evaluated dietary patterns and ACM in 
+participants aged 2 years and older. The NESR team extracted data from and 
+assessed risk of bias in included studies. Committee members synthesized the 
+evidence, developed conclusion statements, and graded the strength of the 
+evidence supporting the conclusion statements.
+FINDINGS: A total of 1 randomized clinical trial and 152 observational studies 
+were included in the review. Studies enrolled adults and older adults (aged 
+17-84 years at baseline) from 28 countries with high or very high Human 
+Development Index; 53 studies originated from the US. Most studies were well 
+designed, used rigorous methods, and had low or moderate risks of bias. 
+Precision, directness, and generalizability were demonstrated across the body of 
+evidence. Results across studies were highly consistent. Evidence suggested that 
+dietary patterns in adults and older adults that involved higher consumption of 
+vegetables, fruits, legumes, nuts, whole grains, unsaturated vegetable oils, 
+fish, and lean meat or poultry (when meat was included) were associated with a 
+decreased risk of ACM. These healthy patterns were also relatively low in red 
+and processed meat, high-fat dairy, and refined carbohydrates or sweets. Some of 
+these dietary patterns also included intake of alcoholic beverages in 
+moderation. Results based on additional analyses with confounding factors 
+generally confirmed the robustness of main findings.
+CONCLUSIONS AND RELEVANCE: In this systematic review, consuming a nutrient-dense 
+dietary pattern was associated with reduced risk of death from all causes.
+
+DOI: 10.1001/jamanetworkopen.2021.22277
+PMCID: PMC8408672
+PMID: 34463743 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Ard 
+reported receiving personal fees from Nestlé Healthcare Nutrition outside the 
+submitted work. Dr Bailey reported serving as a former consultant to the 
+National Institutes of Health (NIH) Office of Dietary Supplements, 
+Nestlé/Gerber, General Mills Bell Institute, RTI International, and Nutrition 
+Impact; serving as a trustee for the International Food Information Council; and 
+receiving travel support in the past to present her research on dietary 
+supplements outside the submitted work. Dr Sabate reported receiving grants that 
+were paid to Loma Linda University from Hass Avocado Board outside the submitted 
+work. Dr Heymsfield reported receiving personal fees from Medifast Corporation 
+Medical Advisory Board outside the submitted work. No other disclosures were 
+reported.
